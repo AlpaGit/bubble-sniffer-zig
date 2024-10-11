@@ -1,8 +1,0 @@
-{
-    "editor.formatOnSave": false,
-    "editor.formatOnSaveMode": "modifications",
-    "[zig]": {
-        "editor.defaultFormatter": "ziglang.vscode-zig",
-    },      
-    "zig.buildOnSave": true,
-}
